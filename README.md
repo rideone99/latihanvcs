@@ -21,6 +21,7 @@ Selanjutnya pemilihan emulator terminal.Pilih saja yang bawah, kemudian klik nex
 
 
 Setelah selesai, kita bisa langsung klik finish.
+
 ![tugas8](https://user-images.githubusercontent.com/92881143/139089753-f2129a0f-4813-4266-b917-6092067fd73a.jpg)
 
 Selamat, Git sudah terinstal di Windows.Untuk mencobanya,silahkan buka CMD atau powershell,
@@ -78,6 +79,8 @@ Selanjutnya,perlu membuat folder pada disk lokal komputer.Fungsinya adalah untuk
 # Cek Github
 
 Setelah itu,cek repository yang telah dibuat.
+
+![terakhir](https://user-images.githubusercontent.com/92881143/139092801-e4d04e7c-29cc-402b-a89c-254f4c903b1d.png)
 
 
 
